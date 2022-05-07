@@ -1,0 +1,11 @@
+.recipe__button {
+    background-color: #8d0606;
+    border: none;
+    border-radius: 5px;
+    color: #fdfdfd;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+}
+
+.recipe__button:hover {
+    cursor: pointer;
+}
