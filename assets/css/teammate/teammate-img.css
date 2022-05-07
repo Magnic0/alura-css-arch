@@ -1,0 +1,21 @@
+.teammate__img {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 100%;
+}
+
+.teammate__img--roberta {
+    background-image: url('../../img/pessoas/roberta.jpg');
+}
+
+.teammate__img--marcela {
+    background-image: url('../../img/pessoas/marcela.jpg');
+}
+
+.teammate__img--andreia {
+    background-image: url('../../img/pessoas/andreia.jpg');
+}

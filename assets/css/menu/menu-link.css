@@ -2,7 +2,7 @@
     color: #808080;
     margin-right: 1.5rem;
     text-decoration: none;
-    text-transform: lowercase;
+    text-transform: capitalize;
 }
 
 .menu__link.active {

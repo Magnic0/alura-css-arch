@@ -1,11 +1,10 @@
 .recipe {
     background-color: #fdfdfd;
-    
+    border: 1px solid #c4c4c4;
+    border-radius: 5px;
     display: flex;
-    
-    border-radius: 2px;
     flex-direction: column;
     margin-bottom: 5rem;
-    margin-right: 5rem;
-    width: calc(25% - 5rem);
+    margin-right: 6.3rem;
+    width: min-content;
 }
